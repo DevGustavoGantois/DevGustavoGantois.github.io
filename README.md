@@ -8,3 +8,6 @@
 <p>Esse Projeto foi excelente para o meu desenvolvimento em programação Web, porque além de eu ter feito um projeto pessoal, também treinei a minha habilidade com as 3 tecnologias HTML, CSS, JavaScript.</p>
 
 <p>Confesso que gostei muito de fazer este portifólio, tive vários desafios, um deles foi adicionalizar a funcionalidade em JavaScrip e tornar o site responsivo, mas mesmo assim com algumas pesquisas, consegui superar esse obstáculos e terminar o projeto.</p>
+
+
+![Captura de tela 2024-03-31 111923](https://github.com/DevGustavoGantois/Portifolio-Dev-Front-End-Me/assets/123424700/e6bacda2-5c92-4444-bda1-edc566e26d84)

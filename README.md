@@ -22,3 +22,9 @@
 ![image](https://github.com/DevGustavoGantois/Portifolio-Dev-Front-End-Me/assets/123424700/fa6c26af-dbcd-44e8-aa5d-74467ca9ec70)
 
 <p>Nesta parte do projeto. Criei uma sessão para os projetos onde evidencio alguns deles, com botões embaixo dos mesmos, para ver o código ou ver o Projeto funcionando apertando nos respectivos botões de cada um! Abaixo dessa sessão existe uma tag de formulário onde você poderá deixar o seu nome, seu email para contato, mensagem e etc... </p>
+
+
+![image](https://github.com/DevGustavoGantois/Portifolio-Dev-Front-End-Me/assets/123424700/4b2f809d-510d-4c4a-ac65-2976140c899b)
+
+<h3>Portifólio Responsivo</h3>
+<p>Caso queiram conferir o portifólio é responsivo e adptavel para todos os tipos de tela acima e abaixo de 1020p!</p>

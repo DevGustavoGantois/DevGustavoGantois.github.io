@@ -7,4 +7,4 @@
 
 <p>Esse Projeto foi excelente para o meu desenvolvimento em programação Web, porque além de eu ter feito um projeto pessoal, também treinei a minha habilidade com as 3 tecnologias HTML, CSS, JavaScript.</p>
 
-<p>Confesso que gostei muito de fazer este portifólio, tive vários desafios, um deles foi adicionalizar a funcionalidade em JavaScrip e tornar o site responsivo</p>
+<p>Confesso que gostei muito de fazer este portifólio, tive vários desafios, um deles foi adicionalizar a funcionalidade em JavaScrip e tornar o site responsivo, mas mesmo assim com algumas pesquisas, consegui superar esse obstáculos e terminar o projeto.</p>

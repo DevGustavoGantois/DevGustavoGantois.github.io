@@ -17,3 +17,8 @@
 ![image](https://github.com/DevGustavoGantois/Portifolio-Dev-Front-End-Me/assets/123424700/7348de6a-0415-47d5-9a37-6f10173162f4)
 
 <p>Utilizei uma Section para falar um pouco sobre mim de forma objetiva, deixando os meus contatos em forma de ícones abaixo, como Git-Hub, Linkedin e Whatsapp!</p>
+
+
+![image](https://github.com/DevGustavoGantois/Portifolio-Dev-Front-End-Me/assets/123424700/fa6c26af-dbcd-44e8-aa5d-74467ca9ec70)
+
+<p>Nesta parte do projeto. Criei uma sessão para os projetos onde evidencio alguns deles, com botões embaixo dos mesmos, para ver o código ou ver o Projeto funcionando apertando nos respectivos botões de cada um! Abaixo dessa sessão existe uma tag de formulário onde você poderá deixar o seu nome, seu email para contato, mensagem e etc... </p>

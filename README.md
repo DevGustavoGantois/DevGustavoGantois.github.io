@@ -11,3 +11,5 @@
 
 
 ![Captura de tela 2024-03-31 111923](https://github.com/DevGustavoGantois/Portifolio-Dev-Front-End-Me/assets/123424700/e6bacda2-5c92-4444-bda1-edc566e26d84)
+
+<p>Especifiquei cada tecnologia na qual eu estudo e me aprimmoro para ser um bom Front-End no mercado de trabalho! Explicando um pouco da função de cada uma dessas linguagens as quais botei em meu portifólio...</p>
